@@ -1,6 +1,7 @@
 Uuid: ceed5b1568ba4b92abecce0dff1e1f2c
 ExtensionType: 2
 Name: JSON Decoder
+RepoName: json-decoder
 ScreenVersion: 1.2
 SerialVersion: 2
 MinPlatformVersion: 0
